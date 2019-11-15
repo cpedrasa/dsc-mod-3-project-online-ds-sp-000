@@ -88,5 +88,8 @@ Your presentation should:
 ### Jupyter notebook:  
 https://github.com/cpedrasa/dsc-mod-3-project-online-ds-sp-000/blob/master/student.ipynb 
 
+### Blog:
+https://cpedrasa.github.io/module_3_project
+
 ### Executive Summary:  
 https://github.com/cpedrasa/dsc-mod-3-project-online-ds-sp-000/blob/master/Mod3ProjCPedrasa.pdf
