@@ -84,3 +84,9 @@ Your presentation should:
 * Take no more than 5 minutes to present  
 <br>  
 * Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.  
+
+### Jupyter notebook:  
+https://github.com/cpedrasa/dsc-mod-3-project-online-ds-sp-000/blob/master/student.ipynb 
+
+### Executive Summary:  
+https://github.com/cpedrasa/dsc-mod-3-project-online-ds-sp-000/blob/master/Mod3ProjCPedrasa.pdf
