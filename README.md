@@ -102,6 +102,15 @@ Is there a difference in the mean quantity of order between salespersons and whe
 Is there a difference in the Average  Total Sales between Countries?  
 + **There is a statistically significant difference in the average TotalSales between customers from Austria & Argentina, Austria & Brazil, Austria & Finland, Austria & France, Austria & Italy, Austria & Mexico, Austria & Spain, Austria & UK, Austria & Venezuela. While Austria has the largest Total sales followed by Portugal, the test however didn't find a significant difference in the mean Total sales between these two countries.**
 
+
+## Recommendation for Future Studies
 I hope the findings above could provide a baseline information to help the Northwind Marketing Team in discount pricing  and help guide further exploration to determine where discounts has an effect in boosting volume of sales and profit. Further study is recommended to determine the variety of motivations for quantity discounts to help provide guidelines to the organization in designing quantity discount schedules and set out the most fruitful directions for future research.
 
+While discounts significantly impact the quantity of products ordered and increase overall sales volume, it would be advantageous to understand  the true impact of giving a discount to ensure profitability when offering discount pricing. We recommend that other metrics impacting discount pricing methods be considered for future research.  
+
++ How can we identify customers with below-average margins? How could we segment discount offers to different types of customers (first-time, dormant, repeat) to entice new sales without losing out on the margins of sales?
++ What type of discount (e.g. volume discount, event or seasonal discount, free shipping) has a higher impact on the volume of sales? 
++ Analyze granted discount frequencies and how the Sales Team is using the full range of percentages to understand how to link discounts with sales incentives.  In addition to analyzing which salesperson sells the most, further focus on profit analysis is equally important.
++ Does giving a 20% discount mean the company has to sell 20% more product to make up for what the company gave away? How much more will Northwind need in sales volume to generate the same amount of gross profit dollars as before?
++ Is there enough market demand to generate 20 percent more sales with a 10% drop in price. Is the discount really necessary?
 
